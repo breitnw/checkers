@@ -10,3 +10,7 @@ When playing, the controls are as follows:
 * Cancel action: [x]
 
 ### Screenshots
+![Alt text](/screenshots/normal.png?raw=true)
+![Alt text](/screenshots/black_req.png?raw=true)
+![Alt text](/screenshots/white_jump.png?raw=true)
+![Alt text](/screenshots/white_king.png?raw=true)
